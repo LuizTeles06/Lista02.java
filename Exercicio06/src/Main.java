@@ -10,13 +10,7 @@ public class Main {
         System.out.println("Digite um número entre 5 e 9:");
 
         n1 = scanner.nextDouble();
-
-
-
-
-
-
-
+        
         if (n1 >=5 && n1 <9 )  {
 
             System.out.println("Entrada liberada");
